@@ -1,0 +1,19 @@
+{
+  "name": "api-lab",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/crbrasfield/covalence-node-api-lab.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/crbrasfield/covalence-node-api-lab/issues"
+  },
+  "homepage": "https://github.com/crbrasfield/covalence-node-api-lab#readme"
+}
