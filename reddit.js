@@ -4,7 +4,7 @@ var fs = require("fs");
 var redditUrl = "https://reddit.com/r/popular.json";
 
 rp(redditUrl)
-  .then(() => {
+  .then((json) => {
     var res = JSON.parse(json);
 
     const articles = res.data.children.map(article => ({
